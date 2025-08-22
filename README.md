@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8" />
-<title>Mines 1Win - Бот бо кушодани 4 ҳуҷра</title>
-<style>
-  body {
-    background-color: #0f0f1c;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: 0;
-    font-family: 'Segoe UI', sans-serif;
-    height: 100vh;
-    padding: 20px;
-  }
 
   .top-buttons {
     margin-bottom: 20px;
